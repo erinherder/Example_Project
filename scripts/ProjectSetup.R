@@ -40,6 +40,5 @@ renv::init()
 
 # The renv package is installed to ensure that the same package version is used over time and between users.  Package versions used/installed for the project are utilized over time and between users so that errors don't arise as a result of different package versions exisitng on each persons computer, or over time on a single users computer when packages are updated.  A copy of the package is stored within the project to ensure the proper version for that project is used at all times by all users.
 
-#Adding a line to this file to test git status
 # renv::init() creates the renv folder in the project file system and links all packages to the project.
 
