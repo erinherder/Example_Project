@@ -42,3 +42,5 @@ renv::init()
 
 # renv::init() creates the renv folder in the project file system and links all packages to the project.
 
+#editing this file a bit more for practice
+# adding one more line
