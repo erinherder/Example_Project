@@ -47,6 +47,7 @@ renv::init()
 install.packages(ggplot2)
 Z <- 1 + 1
 X<- 3+1
+y = 3+4+5
 y <-2+2
 
 install.packages("lintr", "stylr", "ggplot2")
