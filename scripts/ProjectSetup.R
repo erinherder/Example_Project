@@ -45,6 +45,6 @@ renv::init()
 
 
 install.packages(ggplot2)
+Z <- 1 + 1
 X<- 3+1
-
-install.packages(dplyr)
+y <-2+2
