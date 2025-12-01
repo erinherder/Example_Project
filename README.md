@@ -4,6 +4,7 @@
 - Adding an additional line to practice pulling and pushing from GitHub repository.
 - Adding another line for practice.
 - add another line
+- EP adding another line
 
   # Testing out making changes on the repository and pulling to our local computer
 Another line to test
@@ -12,7 +13,7 @@ Another line to test
  
 - Another test line on November 18, 2025.
 
-- Another test
+- I edited text here.  Changed it from Another test.  EP
 -Adding text from GitHub
 
 - This is Erin P - testing our collaboration
