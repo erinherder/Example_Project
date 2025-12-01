@@ -50,7 +50,7 @@ install.packages(ggplot2)
 b<- 4 + 1
 z = 90+90+90 #Z <- 1 + 1
 X<- 3+1 + 900 +800
-y = 500+800 + 900
+y = 500+800 + 900 +1000 # revised by EP in second branch
 y <-2+2
-
+BB<- 0 # added by EP in second branch
 install.packages("lintr", "stylr", "ggplot2")
