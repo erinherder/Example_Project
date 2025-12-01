@@ -47,7 +47,7 @@ renv::init()
 install.packages(ggplot2)
 Z <- 1 + 1
 X<- 3+1
-y = 500+900
+y = 500+800 + 900
 y <-2+2
 
 install.packages("lintr", "stylr", "ggplot2")
