@@ -43,4 +43,7 @@ renv::init()
 # renv::init() creates the renv folder in the project file system and links all packages to the project.
 
 
+
 install.packages(ggplot2)
+X<- 3+1
+
